@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">test20210428</string>
+    <string name="ts1">Test</string>
+    <string name="sc1">Score:</string>
+    <string name="ts2">Test</string>
+    <string name="pba1">Problem1: </string>
+    <string name="pba2">Problem2: </string>
+    <string name="sc2">Score:</string>
+    <string name="uns1">Your Answer1:</string>
+    <string name="uns2">Your Answer2:</string>
+    <string name="submit">SubMit</string>
+    <string name="p1">Problem1:1+2=</string>
+    <string name="p2">Problem2:1*2=</string>
+    <string name="a1">Answer1</string>
+    <string name="a2">Answer2</string>
+    <string name="tt1">TestView</string>
+    <string name="btntt">Test</string>
+    <string name="next">Next</string>
+    <string name="tv_msg">TextView</string>
+    <string name="img_photo">TODO</string>
+    <string name="tv_msg1">TextView</string>
+    <string name="img_photo1">TODO</string>
+    <string name="btn_hm">Home</string>
+    <integer-array name="image_list">
+        <item>@drawable/apple</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/cherries</item>
+        <item>@drawable/grapes</item>
+    </integer-array>
+</resources>

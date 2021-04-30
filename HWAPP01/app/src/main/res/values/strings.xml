@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HWAPP01</string>
+    <string name="drink">飲料</string>
+    <string name="view">View</string>
+    <string name="sendout">送出</string>
+    <string name="sugar">甜度</string>
+    <string name="nosugar">無糖</string>
+    <string name="littlesugar">微糖</string>
+    <string name="halfsugar">半糖</string>
+    <string name="fullsugar">全糖</string>
+    <string name="ice">冰塊</string>
+    <string name="noice">去冰</string>
+    <string name="littleice">微冰</string>
+    <string name="halfice">少冰</string>
+    <string name="fullice">正常冰</string>
+</resources>
