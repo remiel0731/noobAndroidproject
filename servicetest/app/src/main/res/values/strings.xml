@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">servicetest</string>
+    <string name="st1">Start</string>
+    <string name="st2">Stop</string>
+    <string name="tvms">Music</string>
+    <string name="msv">TODO</string>
+</resources>
