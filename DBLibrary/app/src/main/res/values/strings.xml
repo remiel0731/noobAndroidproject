@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DBLibrary</string>
+    <string name="name">書名 :</string>
+    <string name="price">價格 :</string>
+    <string name="year">年份 :</string>
+    <string name="insert">新增</string>
+    <string name="update">修改</string>
+    <string name="delete">刪除</string>
+    <string name="query">查詢</string>
+</resources>
