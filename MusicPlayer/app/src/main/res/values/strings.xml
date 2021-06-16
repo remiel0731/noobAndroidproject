@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="music_title">Music Title</string>
+    <string name="cover">TODO</string>
+    <string name="skip_previous">skip_previous</string>
+    <string name="play">play</string>
+    <string name="skip_next">skip_next</string>
+    <string name="FirstTime">0:11</string>
+    <string name="lastTime">-1:11</string>
+</resources>
